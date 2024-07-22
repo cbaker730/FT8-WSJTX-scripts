@@ -2,4 +2,4 @@
 
 ### cqpota.sh
 
-[images/cqpota.png]
+![cqpota.sh](images/cqpota.png)
